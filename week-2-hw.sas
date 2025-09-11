@@ -1,9 +1,4 @@
-/*---------------------------------------------------------*/
-/* DSCI 519    : Advanced Business Analytics Modeling      */
-/* Deliverable : Week 1 Homework                           */
-/* Author      : Satkar Karki                              */
-/* Submitted To: Dr. Hanus                                 */
-/*---------------------------------------------------------*/
+
 
 /*=================================*/
 /*             LEVEL 2             */
